@@ -1,0 +1,28 @@
+{
+  "name": "vsgrill",
+  "version": "1.0.0",
+  "description": "vs grill website",
+  "main": "index.js",
+  "dependencies": {
+    "mdbootstrap": "^4.5.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardstangl/vsgrill.git"
+  },
+  "keywords": [
+    "restaurant",
+    "website",
+    "mdbootstrap"
+  ],
+  "author": "richard stangl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richardstangl/vsgrill/issues"
+  },
+  "homepage": "https://github.com/richardstangl/vsgrill#readme"
+}
